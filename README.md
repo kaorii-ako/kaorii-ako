@@ -8,6 +8,7 @@ I enjoy creating projects that combine software engineering, automation, and rea
 **Shiori AI Organizer**
 An AI-powered desktop app designed to help students manage school work.
 It connects with Google services to detect assignments, summarize announcements, and generate smart study schedules.
+(Still working on this)
 
 ## What I'm currently learning
 
@@ -22,4 +23,4 @@ It connects with Google services to detect assignments, summarize announcements,
 • Intelligent automation apps
 • Experimental software projects
 
-Thanks for visiting my profile 🚀
+Any Suggestion? You can send me an email: 79807@student.amnuaysilpa.ac.th
