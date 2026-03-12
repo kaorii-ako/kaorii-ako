@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there! 👋
+# I’m Kao, a student developer interested in AI, machine learning, and building intelligent applications.
 
-<!--
-**kaorii-ako/kaorii-ako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy creating projects that combine software engineering, automation, and real-world problem solving. Recently I've been exploring how AI can help improve productivity and organization for students.
 
-Here are some ideas to get you started:
+## Some stuff I built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shiori AI Organizer**
+An AI-powered desktop app designed to help students manage school work.
+It connects with Google services to detect assignments, summarize announcements, and generate smart study schedules.
+
+## What I'm currently learning
+
+• Machine Learning with TensorFlow
+• Desktop and full-stack application development
+• API integrations and automation
+
+## What I'm interested in building
+
+• AI-powered productivity tools
+• Computer vision systems
+• Intelligent automation apps
+• Experimental software projects
+
+Thanks for visiting my profile 🚀
