@@ -13,14 +13,19 @@ It connects with Google services to detect assignments, summarize announcements,
 ## What I'm currently learning
 
 • Machine Learning with TensorFlow
+
 • Desktop and full-stack application development
+
 • API integrations and automation
 
 ## What I'm interested in building
 
 • AI-powered productivity tools
+
 • Computer vision systems
+
 • Intelligent automation apps
+
 • Experimental software projects
 
 Any Suggestion? You can send me an email: 79807@student.amnuaysilpa.ac.th
