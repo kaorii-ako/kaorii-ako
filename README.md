@@ -1,5 +1,5 @@
 ## Hi there! 👋
-# I’m Kao, a student developer interested in AI, machine learning, and building intelligent applications.
+I’m Kao, a student developer interested in AI, machine learning, and building intelligent applications.
 
 I enjoy creating projects that combine software engineering, automation, and real-world problem solving. Recently I've been exploring how AI can help improve productivity and organization for students.
 
