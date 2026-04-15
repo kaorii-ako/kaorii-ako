@@ -9,14 +9,8 @@ Hi there! 👋<br>I’m Kao, a student developer interested in AI, machine learn
 ![](https://streak-stats.demolab.com/?user=kaorii-ako&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaorii-ako&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kaorii-ako&label=Profile%20Views&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kaorii.ako) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
