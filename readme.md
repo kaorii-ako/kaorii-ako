@@ -34,8 +34,8 @@ ls -la ./projects/
 cat learning.log
 
 
-[##########..........] 50%  Machine Learning · TensorFlow
-[################....] 80%  Desktop & Full-Stack Dev
+[##########..........] 50%  Machine Learning · TensorFlow<br>
+[################....] 80%  Desktop & Full-Stack Dev<br>
 [########............] 40%  API Integrations & Automation
 
 ---
