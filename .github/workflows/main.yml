@@ -45,3 +45,18 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          template: terminal
+          filename: metrics.plugin.isocalendar.terminal.svg
+          base: ""
+          plugin_isocalendar: yes
