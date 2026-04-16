@@ -60,3 +60,19 @@ jobs:
           filename: metrics.plugin.isocalendar.terminal.svg
           base: ""
           plugin_isocalendar: yes
+          
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kaorii-ako
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
