@@ -7,8 +7,9 @@ Hi there! 👋<br>I’m Kao, a student developer interested in AI, machine learn
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kaorii-ako&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kaorii-ako&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kaorii-ako&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<picture>
+  <img src="/metrics.plugin.languages.details.svg" alt="Metrics">
+</picture>
 ---
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
