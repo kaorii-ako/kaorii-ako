@@ -110,7 +110,7 @@
 ```
 
 ```
-  Machine Learning · TensorFlow   [##########..........] 50%
+  Machine Learning · TensorFlow    [##########..........] 50%
   Desktop & Full-Stack Dev         [############........] 60%
   API Integrations & Automation    [########............] 40%
   Computer Vision                  [######..............] 30%
