@@ -35,7 +35,7 @@ cat learning.log
 
 
 [##########..........] 50%  Machine Learning · TensorFlow<br>
-[################....] 80%  Desktop & Full-Stack Dev<br>
+[############........] 60%  Desktop & Full-Stack Dev<br>
 [########............] 40%  API Integrations & Automation
 
 ---
