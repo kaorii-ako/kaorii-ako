@@ -207,13 +207,6 @@
 
 <br/>
 
-<div align="center">
-
-**`// achievements`**
-<img src="metrics.plugin.achievements.svg" width="860" alt="achievements"/>
-
-</div>
-
 </details>
 
 ---
@@ -227,8 +220,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=kaorii-ako&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=0080ff&icon_color=0080ff&text_color=0055cc&border_radius=0" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kaorii-ako&hide_border=true&layout=compact&bg_color=000000&title_color=0080ff&text_color=0055cc&border_radius=0" height="160"/>
 
 </div>
 
