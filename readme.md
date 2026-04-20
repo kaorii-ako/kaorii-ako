@@ -172,15 +172,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-`// achievements`
-<img src="metrics.plugin.achievements.svg" width="860" alt="achievements"/>
-
-</div>
-
-<br/>
 </details>
 
 ---
