@@ -41,20 +41,9 @@
 <td width="20"></td>
 <td valign="top">
 
-```yaml
-  ╭─ kaorii@dev ──────────────────────────╮
-  │                                       │
-  │  OS      ▸ Student Linux 24.04 LTS    │
-  │  HOST    ▸ University x86_64          │
-  │  ROLE    ▸ Student Dev                │
-  │  FOCUS   ▸ AI & Machine Learning      │
-  │  STATUS  ▸ building (--no-sleep)      │
-  │  SHELL   ▸ python / bash / ts         │
-  │  EDITOR  ▸ VS Code (vim mode on)      │
-  │                                       │
-  │  ████ ████ ████ ████ ████ ████        │
-  ╰───────────────────────────────────────╯
-```
+<div align="center">
+  <img src="neofetch.svg" alt="neofetch" width="860"/>
+</div>
 
 </td>
 </tr>
