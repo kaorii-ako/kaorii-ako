@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+  <rect width="860" height="420" fill="#1a1127"/>
+  <style>
+    text { font-family: 'Fira Code', 'Courier New', monospace; font-size: 12.5px; white-space: pre; }
+    .arch { fill: #1793d1; }
+    .label { fill: #1793d1; font-weight: bold; }
+    .value { fill: #c8c8c8; }
+    .user { fill: #1793d1; font-weight: bold; font-size: 14px; }
+    .sep { fill: #444455; }
+    .prompt-user { fill: #1793d1; }
+    .prompt-path { fill: #c8c8c8; }
+  </style>
+
+  <!-- EXACT arch logo -->
+  <text x="20" y="44"  class="arch">                   -`</text>
+  <text x="20" y="59"  class="arch">                  .o+`</text>
+  <text x="20" y="74"  class="arch">                 `ooo/</text>
+  <text x="20" y="89"  class="arch">                `+oooo:</text>
+  <text x="20" y="104" class="arch">               `+oooooo:</text>
+  <text x="20" y="119" class="arch">               -+oooooo+:</text>
+  <text x="20" y="134" class="arch">             `/:-:++oooo+:</text>
+  <text x="20" y="149" class="arch">            `/++++/+++++++:</text>
+  <text x="20" y="164" class="arch">           `/++++++++++++++:</text>
+  <text x="20" y="179" class="arch">          `/+++ooooooooooooo/`</text>
+  <text x="20" y="194" class="arch">         ./ooosssso++osssssso+`</text>
+  <text x="20" y="209" class="arch">        .oossssso-````/ossssss+`</text>
+  <text x="20" y="224" class="arch">       -osssssso.      :ssssssso.</text>
+  <text x="20" y="239" class="arch">      :osssssss/        osssso+++.</text>
+  <text x="20" y="254" class="arch">     /ossssssss/        +ssssooo/-</text>
+  <text x="20" y="269" class="arch">   `/ossssso+/:-        -:/+osssso+-</text>
+  <text x="20" y="284" class="arch">  `+sso+:-`                 `.-/+oso:</text>
+  <text x="20" y="299" class="arch"> `++:.                           `-/+/</text>
+  <text x="20" y="314" class="arch"> .`                                 `/</text>
+
+  <!-- Info panel -->
+  <text x="490" y="44"  class="user">kaorii@dev</text>
+  <text x="490" y="59"  class="sep">──────────────────────────────</text>
+
+  <text x="490" y="80"  ><tspan class="label">OS      </tspan><tspan class="value">▸ Arch Linux x86_64</tspan></text>
+  <text x="490" y="98"  ><tspan class="label">HOST    </tspan><tspan class="value">▸ kaorii-pc</tspan></text>
+  <text x="490" y="116" ><tspan class="label">ROLE    </tspan><tspan class="value">▸ Student Dev</tspan></text>
+  <text x="490" y="134" ><tspan class="label">FOCUS   </tspan><tspan class="value">▸ AI &amp; Machine Learning</tspan></text>
+  <text x="490" y="152" ><tspan class="label">STATUS  </tspan><tspan class="value">▸ building (--no-sleep)</tspan></text>
+  <text x="490" y="170" ><tspan class="label">SHELL   </tspan><tspan class="value">▸ python / bash / ts</tspan></text>
+  <text x="490" y="188" ><tspan class="label">EDITOR  </tspan><tspan class="value">▸ VS Code (vim mode on)</tspan></text>
+  <text x="490" y="206" ><tspan class="label">WM      </tspan><tspan class="value">▸ hyprland</tspan></text>
+  <text x="490" y="224" ><tspan class="label">MEMORY  </tspan><tspan class="value">▸ too little / never enough</tspan></text>
+
+  <text x="490" y="248" class="sep">──────────────────────────────</text>
+
+  <!-- Color blocks: sharp corners, zero gap, connected -->
+  <rect x="490" y="260" width="30" height="18" fill="#bf616a"/>
+  <rect x="520" y="260" width="30" height="18" fill="#5e81ac"/>
+  <rect x="550" y="260" width="30" height="18" fill="#4e7fa6"/>
+  <rect x="580" y="260" width="30" height="18" fill="#d08770"/>
+  <rect x="610" y="260" width="30" height="18" fill="#ebcb8b"/>
+  <rect x="640" y="260" width="30" height="18" fill="#c8c8c8"/>
+  <rect x="670" y="260" width="30" height="18" fill="#ffffff"/>
+
+  <!-- Shell prompt -->
+  <text x="20" y="390" class="prompt-user">kaorii</text>
+  <text x="68" y="390" class="prompt-path"> ~/projects/readme ❯</text>
+  <rect x="262" y="377" width="8" height="14" fill="#1793d1"/>
+</svg>
