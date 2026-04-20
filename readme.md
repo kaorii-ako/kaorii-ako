@@ -6,9 +6,9 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  [  OK  ] Started kaorii-dev.service                                 ║
-║  [  OK  ] Reached target: passion-for-building                       ║
-║  [  OK  ] Loaded: arch x86_64  |  uptime: ∞  |  status: building    ║
+║  [  OK  ] Started kaorii-dev.service                                  ║
+║  [  OK  ] Reached target: passion-for-building                        ║
+║  [  OK  ] Loaded: arch x86_64  |  uptime: ∞  |  status: building      ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -77,8 +77,8 @@
 <br/>
 
 ```
-  ▸ Machine Learning · TensorFlow   [##########...........]   50%
-  ▸ Desktop & Full-Stack Dev         [#############.........]   60%
+  ▸ Machine Learning · TensorFlow    [##########...........]   50%
+  ▸ Desktop & Full-Stack Dev         [#############........]   60%
   ▸ API Integrations & Automation    [########.............]   40%
   ▸ Computer Vision                  [######...............]   30%
 ```
